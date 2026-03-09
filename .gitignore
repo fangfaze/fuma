@@ -8,10 +8,6 @@
 *.out
 
 # Go workspace files
-*.mod
-*.sum
-go.sum
-go.mod
 
 # IDE
 .vscode/
